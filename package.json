@@ -1,0 +1,32 @@
+{
+  "name": "@nik96i/eslint-config",
+  "version": "1.0.0",
+  "description": "Sharable eslint config",
+  "homepage": "https://github.com/Nik96i/eslint-config#readme",
+  "bugs": {
+    "url": "https://github.com/Nik96i/eslint-config/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nik96i/eslint-config.git"
+  },
+  "license": "MIT",
+  "author": "Nik96i",
+  "type": "module",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "eslint",
+    "node",
+    "vue",
+    "react"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "prettier": "^3.6.2"
+  }
+}
